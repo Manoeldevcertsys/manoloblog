@@ -16,11 +16,11 @@ module.exports = {
   skills: [
     {
       name: 'HTML5',
-      level: 70
+      level: 80
     },
     {
       name: 'CSS3',
-      level: 60
+      level: 70
     },
     {
       name: 'Javascript',
@@ -60,7 +60,7 @@ module.exports = {
         month: 'jan',
         year: '2021'
       },
-      duration: null,
+      duration: '1 ano e 5 meses',
       occupation: "FullStack Developer - Sênior",
       description: "Nodejs - ReactJS - React Native"
 
